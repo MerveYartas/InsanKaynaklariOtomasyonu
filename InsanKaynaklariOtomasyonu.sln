@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsanKaynaklariOtomasyonu", "InsanKaynaklariOtomasyonu\InsanKaynaklariOtomasyonu.csproj", "{7254EE3C-E966-4A31-A0D7-1485E8CFB15B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "İKSetup", "İKSetup\İKSetup.vdproj", "{CF23B222-61DA-4627-A201-7011DE4395A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7254EE3C-E966-4A31-A0D7-1485E8CFB15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7254EE3C-E966-4A31-A0D7-1485E8CFB15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7254EE3C-E966-4A31-A0D7-1485E8CFB15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7254EE3C-E966-4A31-A0D7-1485E8CFB15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF23B222-61DA-4627-A201-7011DE4395A2}.Debug|Any CPU.ActiveCfg = Debug
+		{CF23B222-61DA-4627-A201-7011DE4395A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
